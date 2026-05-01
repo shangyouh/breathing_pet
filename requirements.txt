@@ -1,0 +1,9 @@
+# Breathing Pet 仅使用 Python 标准库（tkinter）
+# 不需要任何第三方依赖
+#
+# 仅需 Python 3.8+
+#
+# Linux 用户可能需要先安装 tkinter（macOS / Windows 自带）：
+#   Ubuntu/Debian: sudo apt install python3-tk
+#   Fedora:        sudo dnf install python3-tkinter
+#   Arch:          sudo pacman -S tk

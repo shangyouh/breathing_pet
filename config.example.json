@@ -1,0 +1,40 @@
+{
+  "pet": {
+    "skin_type": "emoji",
+    "emoji_list": [
+      "🐱",
+      "🐶",
+      "🐼",
+      "🐨",
+      "🦊",
+      "🐰",
+      "🐸",
+      "🐙",
+      "🐳",
+      "🦄",
+      "🐥",
+      "🐷",
+      "🐮",
+      "🦉",
+      "🐧"
+    ],
+    "skin_rotate_minutes": 30,
+    "window_size": [
+      120,
+      120
+    ],
+    "emoji_font_size": 64,
+    "breath_inhale_ms": 2000,
+    "breath_exhale_ms": 3000,
+    "position": [
+      431,
+      260
+    ],
+    "pet_color": "莫兰迪粉"
+  },
+  "bubble": {
+    "duration_seconds": 8,
+    "font_size": 11,
+    "max_width": 200
+  }
+}
